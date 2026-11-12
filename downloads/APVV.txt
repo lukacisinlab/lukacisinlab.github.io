@@ -1,0 +1,59 @@
+Comenius University Bratislava​
+Faculty of Natural Sciences
+
+Mlynská dolina, Ilkovičova 6​
+842 15 Bratislava 4​
+Slovakia
+
+Department of Genetics
+Martin Lukačišin Lab
+
+SysBio@Comenius
+
+Open PhD student/Postdoc positions in Systems and
+Quantitative Biology
+The Lukačišin lab at the Department of Genetics, Comenius University, Bratislava is looking
+for a talented and motivated PhD student and/or Postdoc to join from September 2025.
+At our Systems Biology lab, we investigate living organisms as systems of interacting parts.
+We employ quantitative and computational analyses to characterise processes in which the
+whole is more than the sum of its parts. We specialise in uncovering interactions between
+combinatorial perturbations, such as interaction between drugs (cf. Lukačišin & Bollenbach,
+2019, Cell Systems) and we employ those to find new mechanisms of gene regulation (cf.
+Lukačišin et al., 2022, Nature).
+We are looking for a PhD student and/or Postdoc to join our lab as part of the project
+‘Characterisation of drug synergies involving the ribosome’ recently funded by the Slovak
+Research and Development Agency.
+Your tasks
+-​ Perform yeast growth assays under various perturbations with emphasis on reproducibility
+and quantitative characterisation
+-​ Establish techniques to study regulation of translation under combination of various stresses
+-​ Investigate the interactions between central processes, such as translation, transcription,
+intercellular signalling using a combination of genetic, physiological and microscopic assays
+-​ Computationally analyse your own experimental data as well as data publicly available
+Your profile
+-​ you are a self-driven person, an independent thinker and you are motivated to investigate the
+molecular basis of life
+-​ you have masters degree/PhD in systems biology, molecular biology, genetics, bioinformatics
+or a related field
+-​ previous experience with quantitative/computational data analysis is an advantage
+-​ you have a track record of accomplished research project appropriate for your career stage
+-​ you have good communication and presentation skills
+We offer
+-​ work environment supportive of your development as a scientist and a researcher
+-​ opportunity for wet scientists to acquire proficiency in computational analysis and vice versa
+-​ accommodations for flexible working schedules
+-​ fully funded position (min. class 6) in accordance with government reg. 553/2003
+-​ health insurance
+-​ subsidised student housing (PhD students)
+
+For inquiries and application, mailto: martin.lukacisin@uniba.sk along with your CV
+that includes the contacts for referees and a brief statement of your motivation to join
+our lab. Applications will be accepted until all positions are filled.
+
+Martin Lukačišin, MBiochem (Oxon), PhD.
+Head of Systems Biology Lab
+martin.lukacisin@uniba.sk
+
+www.uniba.sk
+
+
